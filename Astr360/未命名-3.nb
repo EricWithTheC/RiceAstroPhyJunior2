@@ -1,0 +1,66 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 14.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1660,         58]
+NotebookOptionsPosition[      1176,         41]
+NotebookOutlinePosition[      1585,         57]
+CellTagsIndexPosition[      1542,         54]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell[BoxData[
+ RowBox[{"V", " ", "=", " ", 
+  RowBox[{"V0", " ", 
+   RowBox[{"E", "^", 
+    RowBox[{"(", 
+     RowBox[{
+      RowBox[{"-", "r"}], "/", "a"}], ")"}]}]}]}]], "Input",
+ CellChangeTimes->{{3.923310065198944*^9, 3.923310082201462*^9}},
+ CellLabel->"In[1]:=",ExpressionUUID->"6ff3f07b-a39f-4305-a19b-a0725e242d72"],
+
+Cell[BoxData[
+ RowBox[{
+  SuperscriptBox["\[ExponentialE]", 
+   RowBox[{"-", 
+    FractionBox["r", "a"]}]], " ", "V0"}]], "Output",
+ CellChangeTimes->{3.9233100915919447`*^9},
+ CellLabel->"Out[1]=",ExpressionUUID->"9651de6e-f2fd-4cef-9510-241469fc36a3"]
+}, Open  ]]
+},
+WindowSize->{Full, Full},
+WindowMargins->{{Automatic, 399}, {Automatic, 46}},
+FrontEndVersion->"14.0 for Mac OS X ARM (64-bit) (2023\:5e7412\:670812\:65e5)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"e56efac9-bffc-482b-87fa-adfd553bb9c4"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 324, 8, 44, "Input",ExpressionUUID->"6ff3f07b-a39f-4305-a19b-a0725e242d72"],
+Cell[907, 32, 253, 6, 63, "Output",ExpressionUUID->"9651de6e-f2fd-4cef-9510-241469fc36a3"]
+}, Open  ]]
+}
+]
+*)
+
